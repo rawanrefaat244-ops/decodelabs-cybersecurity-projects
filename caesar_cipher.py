@@ -1,7 +1,7 @@
 def encrypt(text, shift):
     """
     Encrypts the input text using Caesar Cipher with the given shift.
-    Keeps spaces and puncruation unchanged.
+    Keeps spaces and punctuation unchanged.
     """
     result = ""
     for char in text:
