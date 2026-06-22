@@ -1,0 +1,68 @@
+Subject: Weekly Team Meeting Update
+Sender: hr@company.com
+
+Hello team,
+
+This is a reminder that our weekly team meeting will take place tomorrow at 10 AM.
+
+Please review the agenda before the meeting.
+
+Regards,
+HR Team
+
+---
+Subject: URGENT: Account Locked
+Sender: security-alert@secure-login-update.com
+
+Dear user,
+
+Your account will be locked in 30 minutes due to unusual activity.
+
+Click here immediately to verify your password:
+http://secure-login-update.com/verify-account
+
+Failure to act now will result in permanent suspension.
+
+Security Team
+
+---
+Subject: Congratulations! You Won a Prize
+Sender: rewards@free-gift-claim.example.com
+
+Congratulations!
+
+You have been selected as the winner of a free gift card.
+
+Claim your prize now by entering your personal details here:
+http://free-gift-claim.example.com/winner
+
+Do not miss this limited-time offer.
+
+Rewards Team
+
+---
+Subject: Immediate Wire Transfer Required
+Sender: ceo.office@gmail.com
+
+Hi,
+
+I need you to process this wire transfer immediately.
+
+This is strictly confidential. Do not discuss it with anyone.
+
+Send the payment confirmation as soon as possible.
+
+CEO
+
+---
+Subject: Password Verification Required
+Sender: it-support@company-security-check.example.com
+
+Hello,
+
+We detected a problem with your mailbox.
+
+Please send your username, password, and MFA code so we can verify your account.
+
+IT Support
+
